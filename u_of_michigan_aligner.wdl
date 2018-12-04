@@ -219,7 +219,7 @@ workflow TopMedAligner {
   meta {
           author : "Mr. Foo"
           email : "foo@foo.com"
-          description: "This is a cool workflow trying another line ## This is a header"
+          description: "This is a cool workflow trying another line \n## This is a header"
       }
 }
 
